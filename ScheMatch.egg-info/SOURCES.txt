@@ -1,0 +1,8 @@
+setup.py
+ScheMatch.egg-info/PKG-INFO
+ScheMatch.egg-info/SOURCES.txt
+ScheMatch.egg-info/dependency_links.txt
+ScheMatch.egg-info/top_level.txt
+schematch/__init__.py
+schematch/match.py
+schematch/scr
