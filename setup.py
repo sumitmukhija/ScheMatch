@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 setuptools.setup(
     name='ScheMatch',
-    version='0.21',
+    version='0.22',
     scripts=['schematch/scr'],
     author="Sumit Mukhija",
     author_email="sumukhija@gmail.com",
